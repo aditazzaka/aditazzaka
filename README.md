@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **adit03azaka@gmail.com**
 
-- ⚡ Fun fact about me **I have a dream to work in Google. :)**
+- ⚡ Fun fact about me **I have a dream to work in Google :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
