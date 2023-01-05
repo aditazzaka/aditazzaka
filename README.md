@@ -1,4 +1,3 @@
-[![MasterHead](https://images8.alphacoders.com/115/1156488.png)](https://aditazzaka.io)
 <h1 align="center">Hi 👋, I'm Muhammad Rivaditya Azzaka</h1>
 <h3 align="center">Hi, I'm Adit Azzaka, a student from Telkom University. Currently pursuing a bachelor's degree in informatics, I'm interested in cyber security and web programming.</h3>
 
